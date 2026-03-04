@@ -1,4 +1,4 @@
-# Global Customer Demographic & Socioeconomic Dashboard
+### Global Customer Demographic & Socioeconomic Dashboard
 
 ## Project Overview
 This project centralizes **customer demographic and socioeconomic data** to identify dominant market segments across different geographical regions. The data was extracted from a primary **SQL Database** and analyzed in Excel to pinpoint high-value client profiles.
@@ -14,4 +14,4 @@ This project centralizes **customer demographic and socioeconomic data** to iden
 * **Excel Pivot Tables**: Used to aggregate thousands of records by Degree, Region, and Occupation.
 * **Interactive Slicers**: Stakeholders can filter the entire dashboard by **Education Level** (Bachelors, Graduate Degree, etc.).
 
-![Customer Demographic Dashboard](Screenshot 2025-12-26 194042.png)
+![Customer Demographic Dashboard](Clients_demographic.png)
