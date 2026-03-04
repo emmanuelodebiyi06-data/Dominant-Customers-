@@ -1,0 +1,1 @@
+select GeographyKey, City,EnglishCountryRegionName as Country,SalesTerritoryKey from DimGeography
