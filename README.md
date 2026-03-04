@@ -14,4 +14,4 @@ This project centralizes **customer demographic and socioeconomic data** to iden
 * **Excel Pivot Tables**: Used to aggregate thousands of records by Degree, Region, and Occupation.
 * **Interactive Slicers**: Stakeholders can filter the entire dashboard by **Education Level** (Bachelors, Graduate Degree, etc.).
 
-![Customer Demographic Dashboard](Screenshot_2025-12-26_194042.jpg)
+![Customer Demographic Dashboard](Screenshot_2025-12-26_194042.png)
